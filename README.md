@@ -62,4 +62,4 @@ Model performance was evaluated using:
 
 ### 👤 Author
 
-Weronika Mądro - Data Science and Businnes Analytics student, for the purpose of Machine Learning 1 course at University of Warsaw
+Weronika Mądro - Data Science and Businnes Analytics student at University of Warsaw
